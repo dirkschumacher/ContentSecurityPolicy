@@ -30,7 +30,7 @@ You can install the released version of ContentSecurityPolicy from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("shinycsp")
+install.packages("ContentSecurityPolicy")
 remotes::install_github("dirkschumacher/ContentSecurityPolicy")
 ```
 
